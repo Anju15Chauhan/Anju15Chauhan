@@ -12,6 +12,10 @@ I'm Anju Chauhan, a dedicated professional providing GST services from home and 
 ### Projects and Contributions
 - [descriptive_stats]/https://github.com/Anju15Chauhan/descriptive-stats: A collection of statistics models for various datasets.
 - [Machine Learning Models]/https://github.com/Anju15Chauhan/Machine_Learning: A collection of machine learning models for various datasets.
+- [AirBnB_Project]/https://github.com/Anju15Chauhan/AirBnB : This project involved analyzing a dataset from Airbnb to uncover insights into pricing strategies, guest preferences, and popular locations.
+- [Statistics]/https://github.com/Anju15Chauhan/Statistics : The project showcased my understanding of statistical concepts and their application in real-world data analysis.
+- [Petal_power_project]/https://github.com/Anju15Chauhan/Petal_power_project : In this project, I worked with the Petal Power dataset to analyze and predict species of flowers based on their physical characteristics.
+
 
 ### Skills
 - Languages: Python, SQL, Statistics, Numpy, Data analysis, EDA, Pandas, Machine learning
