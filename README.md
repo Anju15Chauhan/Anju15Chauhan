@@ -10,8 +10,8 @@ I'm Anju Chauhan, a dedicated professional providing GST services from home and 
 - ⚡ Fun fact: I love reading mystery novels and have a collection of over 200 books.
 
 ### Projects and Contributions
-- [descriptive_stats]/Bayes'theorembasedprbltyanju.ipynb: An in-depth analysis of New York house prices.
-- [Machine Learning Models]Boston_Housing_Anju.ipynb, LinearRegression_Anju.ipynb: A collection of machine learning models for various datasets.
+- [NY_House_price]: An in-depth analysis of New York house prices.
+- [Machine Learning Models]/https://github.com/Anju15Chauhan/Machine_Learning: A collection of machine learning models for various datasets.
 - [Data Visualization]/https://github.com/anjuchauhan/data-visualization): A project showcasing various data visualization techniques using Python.
 
 ### Skills
