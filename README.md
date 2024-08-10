@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Anju Chauhan, a dedicated professional providing GST services from home and currently pursuing a comprehensive data science course. I specialize in data analysis, Python, SQL, and machine learning, and enjoy creating innovative solutions to real-world problems.
+I'm Anju Chauhan, a dedicated professional providing GST services from home and currently pursuing a comprehensive data science course. I specialize in data analysis, Python, SQL,Statistics, Numpy, Data analysis, EDA, Pandas, and Machine Learning, and enjoy creating innovative solutions to real-world problems.
 
 - 🔭 I’m currently working on a dataset analysis project involving New York house prices and Boston house prices.
 - 🌱 I’m currently learning advanced techniques in Python, SQL, statistics, NumPy, Pandas, and machine learning.
