@@ -18,6 +18,8 @@ I'm Anju Chauhan, a dedicated professional providing GST services from home and 
 - [Telco_customer_Churn](/https://github.com/Anju15Chauhan/Machine_Learning): The project is structured into sections for data preprocessing, exploratory analysis, modeling, evaluation, deployment, and insights to predict and analyze customer churn.
 - [Red_Wine_Quality](https://github.com/Anju15Chauhan/Red_Wine_quality):In this project,Implemented a machine learning model to predict red wine quality based on physicochemical properties using the Red Wine Quality Dataset.
 - [Global_EV_2010-2024](https://github.com/Anju15Chauhan/Global_EV_2024):I Contributed to the analysis and visualization of global electric vehicle (EV) adoption trends from 2010 to 2024, highlighting key market shifts and growth patterns.
+- [Mushrooms_Classification](https://github.com/Anju15Chauhan/Mushroom_Classification):This project contributes a comprehensive dataset for mushroom classification, enabling the development and evaluation of machine learning models to predict whether mushrooms are edible or poisonous.
+- [KNN_Navie_Bayes](https://github.com/Anju15Chauhan/Machine_Learning/blob/main/KNN_NaiveBayes.ipynb):This project implements and compares K-Nearest Neighbors (KNN) and Naive Bayes algorithms for accurate classification of mushrooms as edible or poisonous based on their physical attributes.
 
 ### Skills
 - Languages: Python, SQL, Statistics, Numpy, Data analysis, EDA, Pandas, Machine learning
