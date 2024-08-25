@@ -6,7 +6,7 @@ I'm Anju Chauhan, a dedicated professional providing GST services from home and 
 - 🌱 I’m currently learning advanced techniques in Python, SQL, statistics, NumPy, Pandas, and machine learning.
 - 👯 I’m looking to collaborate on data science projects and open-source initiatives.
 - 💬 Ask me about SQL, data visualization, and statistical analysis.
-- 📫 How to reach me: [E-mail](mabhagwatikripa@gmail.com) or [linkedin](www.linkedin.com/in/anju-chauhan-82a893321)
+- 📫 how to reach me [email](mabhagwatikripa@gmail.com),and [Linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BFdldHJMzRBeYaUVbYrAwYA%3D%3D)
 - ⚡ Fun fact: I love reading mystery novels and have a collection of over 200 books.
 
 ### Projects and Contributions
