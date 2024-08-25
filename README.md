@@ -21,6 +21,8 @@ I'm Anju Chauhan, a dedicated professional providing GST services from home and 
 - [Mushrooms_Classification](https://github.com/Anju15Chauhan/Mushroom_Classification):This project contributes a comprehensive dataset for mushroom classification, enabling the development and evaluation of machine learning models to predict whether mushrooms are edible or poisonous.
 - [KNN_Navie_Bayes](https://github.com/Anju15Chauhan/Machine_Learning/blob/main/KNN_NaiveBayes.ipynb):This project implements and compares K-Nearest Neighbors (KNN) and Naive Bayes algorithms for accurate classification of mushrooms as edible or poisonous based on their physical attributes.
 - [Website_Traffic](https://github.com/Anju15Chauhan/Website_Traffic):This project uses a Decision Tree model to predict conversion rates based on website traffic metrics, including page views, session duration, bounce rate, traffic source, time on page, and previous visits, with the dataset containing 2,000 entries.
+- [Brain_tumor_detection](https://github.com/Anju15Chauhan/Brain_Tumor_Detection/tree/main):This machine learning project focused on developing accurate models for the early detection and classification of brain tumors using medical imaging data.
+- [Heart_Failure_Prediction](https://github.com/Anju15Chauhan/Heart-Failure-Prediction):This dataset is ideal for training machine learning models to predict the likelihood of heart disease based on patient health metrics.
 
 ### Skills
 - Languages: Python, SQL, Statistics, Numpy, Data analysis, EDA, Pandas, Machine learning
