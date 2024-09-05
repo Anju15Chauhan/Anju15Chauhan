@@ -24,6 +24,7 @@ I'm Anju Chauhan, a dedicated professional providing GST services from home and 
 - [Brain_tumor_detection](https://github.com/Anju15Chauhan/Brain_Tumor_Detection/tree/main):This machine learning project focused on developing accurate models for the early detection and classification of brain tumors using medical imaging data.
 - [Heart_Failure_Prediction](https://github.com/Anju15Chauhan/Heart-Failure-Prediction):This dataset is ideal for training machine learning models to predict the likelihood of heart disease based on patient health metrics.
 - [Titanic_Machine_learning](https://github.com/Anju15Chauhan/Titanic_Machine_Learning):"Exploring the Titanic dataset to predict survival outcomes using machine learning techniques."
+- [Kaggle - competetion](https://github.com/Anju15Chauhan/Kaggle_competetion): "online kaggle competion"
 
 
 ### Skills
