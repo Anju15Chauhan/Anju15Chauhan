@@ -25,6 +25,7 @@ I'm Anju Chauhan, a dedicated professional providing GST services from home and 
 - [Heart_Failure_Prediction](https://github.com/Anju15Chauhan/Heart-Failure-Prediction):This dataset is ideal for training machine learning models to predict the likelihood of heart disease based on patient health metrics.
 - [Titanic_Machine_learning](https://github.com/Anju15Chauhan/Titanic_Machine_Learning):"Exploring the Titanic dataset to predict survival outcomes using machine learning techniques."
 - [Kaggle - competetion](https://github.com/Anju15Chauhan/Kaggle_competetion): "online kaggle competion"
+- [Mall_Customer_ML](https://github.com/Anju15Chauhan/Mall_Customer_ML):"This project focuses on analyzing customer data to understand customer behavior and provide insights for targeted marketing."
 
 
 ### Skills
